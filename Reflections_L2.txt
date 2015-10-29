@@ -5,4 +5,8 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	The staging area groups files & changes for a commit.
-	Allows us to ...
+	Allows us to 
+
+How about another reflection?
+
+	Well, let's do it.
